@@ -1,5 +1,7 @@
 {
     "python.pythonPath": "C:\\Users\\jamai\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "git.ignoreLimitWarning": true
 }
