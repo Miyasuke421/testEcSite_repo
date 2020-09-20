@@ -5,4 +5,5 @@ app_name = 'mamazon'
 
 urlpatterns = [
     path('', views.Home.as_view(), name='home'),
+    path('product/', views.ProductListView.as_view(), name='product-list')
 ]
